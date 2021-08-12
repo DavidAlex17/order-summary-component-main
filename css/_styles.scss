@@ -1,0 +1,13 @@
+.card-container {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.box-container {
+  display: inline-flex;
+  background-color: $neutral-color-100;
+}
+
