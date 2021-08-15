@@ -4,11 +4,20 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  max-width: 400px;
+  margin: 10rem auto; //last left off
 }
 
 .header-img {width: 100%;}
 
+.card-container > a:nth-of-type(1) {
+  padding: 1rem 3.8rem;
+  border-radius: 0.5rem;
+}
+
 .box-container {
   display: inline-flex;
   align-items: center;
+  .music-img {padding-right: 1rem;}
+  h4 {padding-right: 2.5rem;}
 }
