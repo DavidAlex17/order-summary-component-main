@@ -1,3 +1,9 @@
+p, span {
+  color: $neutral-color-200;
+  line-height: 1.5rem;
+  font-weight: lighter;
+}
+
 .card-container {background-color: white;}
 
 .card-container > a {
@@ -13,6 +19,7 @@
 }
 
 .box-container {
+  padding: 0.7rem;
+  border-radius: 0.5rem;
   background-color: $neutral-color-100;
-  a {text-decoration: none;}
 }
