@@ -4,20 +4,33 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  max-width: 400px;
+  max-width: 350px;
   margin: 10rem auto; //last left off
 }
 
+// .card-container *:not(:first-child) {
+//   padding: 2rem;
+// }
+
 .header-img {width: 100%;}
 
+p {
+  width: 75%;
+}
+
 .card-container > a:nth-of-type(1) {
+  width: 90%;
   padding: 1rem 3.8rem;
   border-radius: 0.5rem;
 }
 
 .box-container {
+  width: 90%;
   display: inline-flex;
   align-items: center;
-  .music-img {padding-right: 1rem;}
-  h4 {padding-right: 2.5rem;}
+  justify-content: space-around;
+  padding: 1em;
+  border-radius: 1rem;
+  .music-img {padding-right: 1em;}
+  h4 {padding-right: 3em;}
 }
