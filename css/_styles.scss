@@ -1,6 +1,7 @@
 p, span {
+  text-align: center;
   color: $neutral-color-200;
-  line-height: 1.5rem;
+  line-height: 1.8rem;
   font-weight: lighter;
 }
 
@@ -8,6 +9,7 @@ p, span {
 
 .card-container > a {
   &:nth-of-type(1) {
+    text-align: center;
     text-decoration: none;
     background-color: $primary-color-200;
     color: white;
@@ -19,7 +21,5 @@ p, span {
 }
 
 .box-container {
-  padding: 0.7rem;
-  border-radius: 0.5rem;
   background-color: $neutral-color-100;
 }
