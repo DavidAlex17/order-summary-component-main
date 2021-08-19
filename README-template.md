@@ -53,7 +53,7 @@ This challenge is part of the consistent practice i do to better my css skills a
 
 ## Author
 
-- Frontend Mentor - [@DavidAlex17](https://www.frontendmentor.io/profile/DavidAlex17)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/DavidAlex17]
 
 ## Acknowledgments
 
