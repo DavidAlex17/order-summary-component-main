@@ -67,6 +67,13 @@ p {
   padding-right: 3em;
 }
 
+@media (min-width: 780px) {
+  body {
+    background-image: url(/images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+  }
+}
+
 *,
 *::before,
 *::after {
